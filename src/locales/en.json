@@ -1,0 +1,18 @@
+{
+  "translation": {
+    "blockchain_site": "BlockChain Site",
+    "homepage": "Home Page",
+    "official_forum_url": "Official Forum",
+    "chat_url": "Chat",
+    "announcement_url": "Announcement Url",
+    "twitter_screen_name": "Twitter Account",
+    "facebook_username": "Facebook Account",
+    "bitcointalk_thread_identifier": "Bitcoin Talk",
+    "telegram_channel_identifier": "Telegram Channel",
+    "subreddit_url": "Subreddit",
+    "repos_url": "Repositories",
+    "price": "Price",
+    "market_cap": "Market Cap",
+    "total_volume": "Total Volume"
+  }
+}
